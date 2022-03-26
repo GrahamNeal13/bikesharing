@@ -10,6 +10,10 @@ For this analysis, we have used Pandas to change the "tripduration" column from 
     - Show the length of time that bikes are checked out for all riders and genders
     - Show the number of bike trips for all riders and genders for each hour of each day of the week
     - Show the number of bike trips for each type of user and gender for each day of the week.
+    
+Link to the Tableau Public Story:
+
+![link to dashboard](https://public.tableau.com/app/profile/graham.neal/viz/Module14Challenge_16482717667440/CitiBikeActivity)
 
 ## Overview:
 
