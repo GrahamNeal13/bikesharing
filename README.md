@@ -13,7 +13,7 @@ For this analysis, we have used Pandas to change the "tripduration" column from 
     
 Link to the Tableau Public Story:
 
-![link to dashboard](https://public.tableau.com/app/profile/graham.neal/viz/Module14Challenge_16482717667440/CitiBikeActivity)
+![link to dashboard](https://public.tableau.com/views/Module14Challenge_16482717667440/CitiBikeActivity?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview:
 
