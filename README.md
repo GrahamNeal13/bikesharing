@@ -17,7 +17,7 @@ https://public.tableau.com/views/Module14Challenge_16482717667440/CitiBikeActivi
 
 ## Overview:
 
-1. Using the data from New York City we can see the popularity with both commuters and tourists in using bicycles.  The idea that one of the largest cities on the east coast can provide a great oppurtunity for other cities.  Based on the most common times the bikes are used we can also see when it would be the best time to collect bikes for repair.  
+1. Using the data from New York City we can see the popularity with both commuters and tourists in using bicycles.  The idea that one of the largest cities on the east coast can provide a great oppurtunity for other cities.  Based on the most common times the bikes are used we can also see when it would be the best time to collect bikes for repair.  Also the chart shows that commuting times are the most popular times the bikes are used from 9 am to 10 am and 5 to 6 pm.  
 
 ![heatmap_hourly.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/heatmap_hourly.png)
 
@@ -25,23 +25,23 @@ https://public.tableau.com/views/Module14Challenge_16482717667440/CitiBikeActivi
 
 ![checkout_gender.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/checkout_gender.png)
 
-3. We can also see that the among the customers it is the commuters who are the subscribers that will be the main users of the bikes.  
+3. We can also see that the among the customers it is the commuters who are the subscribers that will be the main users of the bikes.  This is also a great method of transportation for local commuters and provides a environmentally friendly option.  
 
 ![gender_by_weekday.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/gender_by_weekday.png)
 
-4. By using the peak hours chart we can see when the bikes are most used and when the best time to perform maintenance would be.  
+4. By using the peak hours chart we can see when the bikes are most used and when the best time to perform maintenance would be.  The most popular hours of use are 5-7pm which means that the hours of 3-4 am would be the best times to collect the bikes or rotate the most used units to less used stations.  
 
 ![august_peak_hours.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/august_peak_hours.png)
 
-5. The checkout time for users would allow us to see how many bikes are checked out and for how long.  This data will be useful in determining the average length of time that each bike is being used and how far they are traveling.  
+5. The checkout time for users would allow us to see how many bikes are checked out and for how long.  This data will be useful in determining the average length of time that each bike is being used and how far they are traveling.  The longest length of time is 5 minutes which shows use that the bikes are being used for short distance traveling.  
 
 ![checkout_users.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/checkout_users.png)
 
-6. Here we can see the top starting locations, which are a great way for us to determine the most popular locations.  Based on high use areas we can also make the connection for other cities and determine where the bike stations should be set up.  
+6. Here we can see the top starting locations, which are a great way for us to determine the most popular locations.  Based on high use areas we can also make the connection for other cities and determine where the bike stations should be set up.  Also knowing that the top starting locations are within Manhatten, we could also have helmets available or sponsor a helmet discount purchasing program for our subscribers.  
 
 ![Start_locations.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/Start_locations.png)
 
-7. Another way we can determine the best locations for bike collection is by using the top ending locations.  This also gives us a good idea of how far the commuters and subscribers are taking the bikes based on the starting locations.   
+7. Another way we can determine the best locations for bike collection is by using the top ending locations.  This also gives us a good idea of how far the commuters and subscribers are taking the bikes based on the starting locations.  Using the top ending locations will also let our maintenance teams know where to collect the bikes for repair.  
 
 ![Ending_locations.png](https://github.com/GrahamNeal13/bikesharing/blob/main/images/Ending_locations.png)
 
